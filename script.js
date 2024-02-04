@@ -67,6 +67,3 @@ speechBtn.addEventListener("click", e => {
         }
 ;    }
 })
-
-
-
